@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EventTracker</string>
+    <string name="update_event">Update Event</string>
+    <string name="press_an_event_for_more_details">Press an event for more details</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_list">Event List</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="apptitle">Eventify</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date_mm_dd_yyyy">Date (MM-DD-YYYY)</string>
+    <string name="time_hh_mm_am_pm">Time (HH:MM AM/PM)</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="your_phone_number_here">YOUR_PHONE_NUMBER_HERE</string>
+    <string name="applicationlogo">ApplicationLogo</string>
+</resources>
